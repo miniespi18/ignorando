@@ -1,0 +1,3 @@
+config.json
+libs/**/nude_modules
+src/**/*.class
